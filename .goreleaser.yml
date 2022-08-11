@@ -31,5 +31,5 @@ dockers:
     binaries:
       - nlreturn
     image_templates:
-      - "ssgreg/nlreturn:latest"
-      - "ssgreg/nlreturn:{{ .Tag }}"
+      - "muXxer/nlreturn:latest"
+      - "muXxer/nlreturn:{{ .Tag }}"
